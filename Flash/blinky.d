@@ -1,0 +1,11 @@
+.\Flash\blinky.o: Blinky.c
+.\Flash\blinky.o: C:\Keil\ARM\Inc\ST\STM32F4xx\STM32F4xx.h
+.\Flash\blinky.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\Flash\blinky.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\Flash\blinky.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\Flash\blinky.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\Flash\blinky.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\Flash\blinky.o: C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h
+.\Flash\blinky.o: Pin.h
+.\Flash\blinky.o: UsartDriver.h
+.\Flash\blinky.o: Letters.h

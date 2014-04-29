@@ -1,0 +1,7 @@
+Dependencies for Project 'Blinky', Target 'STM32F407 RAM': (DO NOT MODIFY !)
+F (.\startup_stm32f4xx.s)(0x4F85B1D8)(--cpu Cortex-M4.fp -g --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F4xx --list ".\RAM\startup_stm32f4xx.lst" --xref -o ".\RAM\startup_stm32f4xx.o" --depend ".\RAM\startup_stm32f4xx.d")
+F (.\system_stm32f4xx.c)(0x50F6DC40)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F4xx -DVECT_TAB_SRAM -o ".\RAM\system_stm32f4xx.o" --omf_browse ".\RAM\system_stm32f4xx.crf" --depend ".\RAM\system_stm32f4xx.d")
+F (.\Blinky.c)(0x51890FB2)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F4xx -DVECT_TAB_SRAM -o ".\RAM\blinky.o" --omf_browse ".\RAM\blinky.crf" --depend ".\RAM\blinky.d")
+F (.\Pin.c)(0x5181828C)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F4xx -DVECT_TAB_SRAM -o ".\RAM\pin.o" --omf_browse ".\RAM\pin.crf" --depend ".\RAM\pin.d")
+F (.\letters.c)(0x51890DC7)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F4xx -DVECT_TAB_SRAM -o ".\RAM\letters.o" --omf_browse ".\RAM\letters.crf" --depend ".\RAM\letters.d")
+F (.\Abstract.txt)(0x4F58FDEE)()
